@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aniket Chaudhri</h1>
-<h3 align="center">A passionate Android developer from IIT Goa</h3>
+<h3 align="center">A passionate Problem Solver and Software developer from IIT Goa</h3>
 
-- 🔭 I’m currently working on [Lecture Alert App](https://github.com/AniketChaudhri/LectureAlert)
+- 🔭 I’m currently working on my DSA skills
 
-- 🌱 I’m currently learning **Kotlin for android**
+- 🌱 I’m currently learning **WebD and DSA**
 
-- 👯 I’m looking to collaborate on **Native Android Development projects**
-
-- 🤝 I’m looking for help with **Android Apps and CP**
+- 🤝 I’m looking for help with **Competitive Programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AniketChaudhri](https://github.com/AniketChaudhri)
 
