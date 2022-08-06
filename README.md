@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aniket Chaudhri</h1>
 <h3 align="center">A passionate Problem Solver and Software developer from IIT Goa</h3>
 
+- 👨‍💻 All of my projects are available here: [Projects](https://aniketchaudhri.github.io/projects/)
+
 - 🔭 I’m currently working on my DSA skills
 
 - 🌱 I’m currently learning **WebD and DSA**
 
 - 🤝 I’m looking for help with **Competitive Programming**
-
-- 👨‍💻 All of my projects are available at [https://github.com/AniketChaudhri](https://github.com/AniketChaudhri)
 
 - 📫 How to reach me **anichaudhri@gmail.com**
 
